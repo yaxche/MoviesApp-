@@ -22,7 +22,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ArchitecturePlayground"
+rootProject.name = "MoviesApp"
 include(":app")
 include(":presentation")
 include(":data")
